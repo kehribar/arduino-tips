@@ -1,6 +1,6 @@
 /******************************************************************************
 *
-* Basic blinky example code which doesn't uses Arduino IDE
+* Basic blinky example code for Arduino UNO which doesn't need Arduino IDE
 *	ihsan Kehribar - 2012
 ******************************************************************************/
 #include <avr/io.h>
