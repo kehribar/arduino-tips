@@ -5,7 +5,8 @@
    * Install WinAVR for Windows environment  
       * http://winavr.sourfource.org  
    * sudo apt-get install avr-tools for Linux  
-   * Install crospackavr for Mac environment  
+   * Install CrossPack for Mac environment 
+      * http://www.obdev.at/products/crosspack/index.html
 
 ##Makefile commands  
    * make  
