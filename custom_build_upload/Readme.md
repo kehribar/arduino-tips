@@ -4,7 +4,7 @@
 ##Requirements  
    * Install WinAVR for Windows environment  
       * http://winavr.sourfource.org  
-   * 'sudo apt-get install avr-tools' for Linux  
+   * 'sudo apt-get install arduino' for Linux. You may also separately install avr-gcc, avrdude, avr-libc, etc. manually  
    * Install CrossPack for Mac environment 
       * http://www.obdev.at/products/crosspack/index.html
 
