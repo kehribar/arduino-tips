@@ -4,7 +4,7 @@
 ##Requirements  
    * Install WinAVR for Windows environment  
       * http://winavr.sourfource.org  
-   * sudo apt-get install avr-tools for Linux  
+   * 'sudo apt-get install avr-tools' for Linux  
    * Install CrossPack for Mac environment 
       * http://www.obdev.at/products/crosspack/index.html
 
